@@ -25,5 +25,5 @@ echo "export PATH=\$PATH:$pathto/wnt-ns2/bin:$pathto/wnt-ns2/tcl8.5.10/unix:$pat
 echo "export LD_LIBRARY_PATH=\$LD_LIBRARY_PATH:$pathto/wnt-ns2/otcl-1.14:$pathto/wnt-ns2/lib" >> ~/.bashrc
 echo "export LD_LIBRARY=\$LD_LIBRARY:$pathto/wnt-ns2/tcl8.5.10/library" >> ~/.bashrc
 echo "echo \"==================Welcome to use NS2 for WNT!=====================\"" >> ~/.bashrc
-echo "echo \"If you have any questions, please contact norbert_jxl AT 163.com\"" >> ~/.bashrc
+echo "echo \"If you have any questions, please contact wireless_net@163.com\"" >> ~/.bashrc
 echo "The '.bashrc' file is configured!"
